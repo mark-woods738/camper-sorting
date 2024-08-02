@@ -44,5 +44,3 @@ Campers reveive a score based on how well their allocation matches their submitt
 
 #### Example
 If a camper submits 5 preferences and receives their 1st choice, 2nd choice and an acitivty they didn't choose, they will receive 5 points. 3 points for getting their 1st choice, 2 points for for getting thier 2nd choice and 0 points for the remaining activity.
-
-<!-- TODO add try catch in file loading -->

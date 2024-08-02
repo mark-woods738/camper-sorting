@@ -1,393 +1,350 @@
-Name,Abi Double Barrelled Bonnell,Tent,1,Score,6
+Name,Abi Double Barrelled Bonnell,Score,3
 Block 1,archery
 Block 2,paddle boarding
 Block 3,crafts
 
-Name,Alanna Janssen,Tent,2,Score,9
-Block 1,low ropes
-Block 2,sports
-Block 3,kayaking
-Block 4,riflery
+Name,Alanna Janssen,Score,0
+Block 1,obstacle course/sports
+Block 2,kayaking
+Block 3,riflery
 
-Name,Alex Piper,Tent,3,Score,7
+Name,Alex Piper,Score,5
 Block 1,riflery
 Block 2,archery
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Alyssa Ross,Tent,4,Score,6
+Name,Alyssa Ross,Score,3
 Block 1,archery
 Block 2,crafts
 Block 3,paddle boarding
 
-Name,Amaya Carriere,Tent,5,Score,7
-Block 1,low ropes
-Block 2,sports
-Block 3,riflery
-Block 4,paddle boarding
-
-Name,Amelia Monteith,Tent,6,Score,9
-Block 1,low ropes
-Block 2,sports
+Name,Amaya Carriere,Score,2
+Block 1,obstacle course/sports
+Block 2,riflery
 Block 3,paddle boarding
-Block 4,archery
 
-Name,Anatol Moucha,Tent,7,Score,7
+Name,Amelia Monteith,Score,0
+Block 1,obstacle course/sports
+Block 2,paddle boarding
+Block 3,archery
+
+Name,Anatol Moucha,Score,3
 Block 1,riflery
-Block 2,low ropes
-Block 3,sports
-Block 4,canoeing
+Block 2,obstacle course/sports
+Block 3,canoeing
 
-Name,Antonia Gonzalez,Tent,8,Score,7
-Block 1,low ropes
-Block 2,sports
-Block 3,riflery
-Block 4,archery
+Name,Antonia Gonzalez,Score,3
+Block 1,obstacle course/sports
+Block 2,riflery
+Block 3,archery
 
-Name,Arya Bhardwaj,Tent,9,Score,7
+Name,Arya Bhardwaj,Score,3
 Block 1,riflery
 Block 2,paddle boarding
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Atticus Liesch,Tent,10,Score,6
+Name,Atticus Liesch,Score,5
 Block 1,riflery
 Block 2,archery
 Block 3,paddle boarding
 
-Name,Aurora Pollock,Tent,1,Score,7
-Block 1,low ropes
-Block 2,sports
-Block 3,archery
-Block 4,kayaking
+Name,Aurora Pollock,Score,2
+Block 1,obstacle course/sports
+Block 2,archery
+Block 3,kayaking
 
-Name,Blake Lane,Tent,2,Score,6
+Name,Blake Lane,Score,2
 Block 1,paddle boarding
 Block 2,riflery
 Block 3,kayaking
 
-Name,Brody Friederich,Tent,3,Score,6
+Name,Brody Friederich,Score,5
 Block 1,riflery
 Block 2,archery
 Block 3,canoeing
 
-Name,Brooke Puetz,Tent,4,Score,7
-Block 1,low ropes
-Block 2,sports
-Block 3,paddle boarding
-Block 4,riflery
+Name,Brooke Puetz,Score,2
+Block 1,obstacle course/sports
+Block 2,paddle boarding
+Block 3,riflery
 
-Name,Caleb Lansdowne,Tent,5,Score,5
+Name,Caleb Lansdowne,Score,3
 Block 1,kayaking
 Block 2,riflery
 Block 3,archery
 
-Name,Carson Todd,Tent,6,Score,5
+Name,Carson Todd,Score,4
 Block 1,archery
 Block 2,kayaking
 Block 3,riflery
 
-Name,Cedric Demarzo,Tent,7,Score,7
-Block 1,low ropes
-Block 2,sports
-Block 3,riflery
-Block 4,paddle boarding
+Name,Cedric Demarzo,Score,2
+Block 1,obstacle course/sports
+Block 2,riflery
+Block 3,paddle boarding
 
-Name,Charlotte Sauer,Tent,8,Score,6
+Name,Charlotte Sauer,Score,5
 Block 1,archery
 Block 2,riflery
 Block 3,canoeing
 
-Name,Chase Day,Tent,9,Score,6
+Name,Chase Day,Score,5
 Block 1,riflery
 Block 2,archery
 Block 3,kayaking
 
-Name,Chloe Saure,Tent,10,Score,6
+Name,Chloe Saure,Score,2
 Block 1,crafts
 Block 2,archery
 Block 3,paddle boarding
 
-Name,Claire Krause,Tent,1,Score,6
+Name,Claire Krause,Score,3
 Block 1,canoeing
 Block 2,paddle boarding
 Block 3,kayaking
 
-Name,Cole Ochs,Tent,2,Score,7
+Name,Cole Ochs,Score,5
 Block 1,riflery
 Block 2,archery
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Elise Newcomb,Tent,3,Score,6
+Name,Elise Newcomb,Score,2
 Block 1,paddle boarding
 Block 2,kayaking
 Block 3,crafts
 
-Name,Ella Finneron,Tent,4,Score,5
+Name,Ella Finneron,Score,4
 Block 1,archery
 Block 2,paddle boarding
 Block 3,riflery
 
-Name,Faith Casey,Tent,5,Score,8
+Name,Faith Casey,Score,3
 Block 1,riflery
 Block 2,crafts
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Fiona Prinsloo,Tent,6,Score,6
+Name,Fiona Prinsloo,Score,3
 Block 1,archery
 Block 2,paddle boarding
 Block 3,crafts
 
-Name,Gabriel RAFFIN,Tent,7,Score,6
+Name,Gabriel RAFFIN,Score,5
 Block 1,archery
 Block 2,riflery
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Gavin Todd,Tent,8,Score,6
+Name,Gavin Todd,Score,5
 Block 1,riflery
 Block 2,archery
 Block 3,kayaking
 
-Name,Gwenyth Matthews,Tent,9,Score,5
+Name,Gwenyth Matthews,Score,1
 Block 1,crafts
 Block 2,paddle boarding
 Block 3,archery
 
-Name,Harmony Dawson,Tent,10,Score,9
-Block 1,low ropes
-Block 2,sports
-Block 3,crafts
-Block 4,canoeing
+Name,Harmony Dawson,Score,0
+Block 1,obstacle course/sports
+Block 2,crafts
+Block 3,canoeing
 
-Name,Isaiah Briese,Tent,1,Score,6
+Name,Isaiah Briese,Score,5
 Block 1,riflery
 Block 2,archery
 Block 3,kayaking
 
-Name,Jacob Sinclair,Tent,2,Score,6
+Name,Jacob Sinclair,Score,3
 Block 1,riflery
 Block 2,kayaking
 Block 3,canoeing
 
-Name,Jayden Watson,Tent,3,Score,6
+Name,Jayden Watson,Score,5
 Block 1,archery
 Block 2,riflery
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Jonathan Matthews,Tent,4,Score,6
+Name,Jonathan Matthews,Score,5
 Block 1,riflery
 Block 2,archery
 Block 3,paddle boarding
 
-Name,Julianne Hendriks,Tent,5,Score,6
+Name,Julianne Hendriks,Score,5
 Block 1,archery
 Block 2,riflery
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Julien Durupt,Tent,6,Score,5
+Name,Julien Durupt,Score,3
 Block 1,riflery
-Block 2,low ropes
-Block 3,sports
-Block 4,kayaking
+Block 2,obstacle course/sports
+Block 3,kayaking
 
-Name,Justice Findlay,Tent,7,Score,6
+Name,Justice Findlay,Score,3
 Block 1,riflery
 Block 2,kayaking
 Block 3,paddle boarding
 
-Name,Kaelen Pollock,Tent,8,Score,5
+Name,Kaelen Pollock,Score,5
 Block 1,riflery
 Block 2,archery
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Kaylee Speed,Tent,9,Score,5
+Name,Kaylee Speed,Score,1
 Block 1,paddle boarding
 Block 2,crafts
 Block 3,riflery
 
-Name,Kaylee Weippert,Tent,10,Score,9
+Name,Kaylee Weippert,Score,4
 Block 1,archery
-Block 2,low ropes
-Block 3,sports
-Block 4,riflery
+Block 2,obstacle course/sports
+Block 3,riflery
 
-Name,Kiran Mills,Tent,1,Score,5
+Name,Kiran Mills,Score,3
 Block 1,archery
 Block 2,kayaking
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Lavender Medd,Tent,2,Score,5
+Name,Lavender Medd,Score,3
 Block 1,archery
 Block 2,crafts
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Leland Reierson,Tent,3,Score,6
+Name,Leland Reierson,Score,5
 Block 1,riflery
 Block 2,archery
 Block 3,kayaking
 
-Name,Lexie Jenkins,Tent,4,Score,5
+Name,Lexie Jenkins,Score,3
 Block 1,archery
 Block 2,crafts
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Lynden Hoffman,Tent,5,Score,7
+Name,Lynden Hoffman,Score,5
 Block 1,riflery
 Block 2,archery
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Madeleine Miron,Tent,6,Score,7
+Name,Madeleine Miron,Score,5
 Block 1,archery
 Block 2,riflery
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Madeline Perera,Tent,7,Score,9
-Block 1,low ropes
-Block 2,sports
-Block 3,kayaking
-Block 4,riflery
+Name,Madeline Perera,Score,1
+Block 1,obstacle course/sports
+Block 2,kayaking
+Block 3,riflery
 
-Name,Magnus Andreassen,Tent,8,Score,6
+Name,Magnus Andreassen,Score,3
 Block 1,riflery
-Block 2,low ropes
-Block 3,sports
-Block 4,paddle boarding
+Block 2,obstacle course/sports
+Block 3,paddle boarding
 
-Name,Maia Eria,Tent,9,Score,6
+Name,Maia Eria,Score,2
 Block 1,paddle boarding
 Block 2,riflery
 Block 3,crafts
 
-Name,Mason Smith,Tent,10,Score,7
+Name,Mason Smith,Score,3
 Block 1,kayaking
-Block 2,low ropes
-Block 3,sports
-Block 4,paddle boarding
+Block 2,obstacle course/sports
+Block 3,paddle boarding
 
-Name,Mckenzie Bellrose,Tent,1,Score,7
+Name,Mckenzie Bellrose,Score,2
 Block 1,kayaking
 Block 2,paddle boarding
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Nathan Le Bourdais,Tent,2,Score,7
+Name,Nathan Le Bourdais,Score,5
 Block 1,archery
 Block 2,riflery
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Nathan Reierson,Tent,3,Score,6
+Name,Nathan Reierson,Score,5
 Block 1,archery
 Block 2,riflery
 Block 3,paddle boarding
 
-Name,Nina Rempel,Tent,4,Score,6
+Name,Nina Rempel,Score,4
 Block 1,archery
-Block 2,low ropes
-Block 3,sports
-Block 4,riflery
+Block 2,obstacle course/sports
+Block 3,riflery
 
-Name,Novah Legendre,Tent,5,Score,6
+Name,Novah Legendre,Score,5
 Block 1,archery
 Block 2,riflery
 Block 3,crafts
 
-Name,Oliver Sinclair,Tent,6,Score,6
+Name,Oliver Sinclair,Score,3
 Block 1,riflery
 Block 2,paddle boarding
 Block 3,canoeing
 
-Name,Ryder Cummings,Tent,7,Score,8
-Block 1,low ropes
-Block 2,sports
-Block 3,riflery
-Block 4,crafts
+Name,Ryder Cummings,Score,2
+Block 1,obstacle course/sports
+Block 2,riflery
+Block 3,crafts
 
-Name,Scotia Walther,Tent,8,Score,6
+Name,Scotia Walther,Score,4
 Block 1,archery
-Block 2,low ropes
-Block 3,sports
-Block 4,riflery
+Block 2,obstacle course/sports
+Block 3,riflery
 
-Name,Serena Chapman,Tent,9,Score,9
-Block 1,low ropes
-Block 2,sports
-Block 3,paddle boarding
-Block 4,riflery
+Name,Serena Chapman,Score,1
+Block 1,obstacle course/sports
+Block 2,paddle boarding
+Block 3,riflery
 
-Name,Simon Pellerin,Tent,10,Score,7
+Name,Simon Pellerin,Score,5
 Block 1,riflery
 Block 2,archery
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Sophie reid,Tent,1,Score,6
+Name,Sophie reid,Score,3
 Block 1,riflery
 Block 2,kayaking
 Block 3,paddle boarding
 
-Name,Stella Colyn,Tent,2,Score,9
-Block 1,low ropes
-Block 2,sports
-Block 3,paddle boarding
-Block 4,riflery
+Name,Stella Colyn,Score,1
+Block 1,obstacle course/sports
+Block 2,paddle boarding
+Block 3,riflery
 
-Name,Storm Zapp,Tent,3,Score,9
-Block 1,low ropes
-Block 2,sports
-Block 3,crafts
-Block 4,archery
+Name,Storm Zapp,Score,1
+Block 1,obstacle course/sports
+Block 2,crafts
+Block 3,archery
 
-Name,Taryn Jenkins,Tent,4,Score,7
+Name,Taryn Jenkins,Score,5
 Block 1,riflery
 Block 2,archery
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Treyden Ermine,Tent,5,Score,7
+Name,Treyden Ermine,Score,3
 Block 1,riflery
-Block 2,low ropes
-Block 3,sports
-Block 4,kayaking
+Block 2,obstacle course/sports
+Block 3,kayaking
 
-Name,Valentina Gradica,Tent,6,Score,7
+Name,Valentina Gradica,Score,2
 Block 1,canoeing
 Block 2,archery
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Vanessa Keddy,Tent,7,Score,5
+Name,Vanessa Keddy,Score,3
 Block 1,archery
 Block 2,crafts
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Wyatt Sawyer,Tent,8,Score,7
+Name,Wyatt Sawyer,Score,5
 Block 1,riflery
 Block 2,archery
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
-Name,Xander Dennis,Tent,9,Score,7
+Name,Xander Dennis,Score,3
 Block 1,riflery
-Block 2,low ropes
-Block 3,sports
-Block 4,kayaking
+Block 2,obstacle course/sports
+Block 3,kayaking
 
-Name,Zoe Brunn,Tent,10,Score,6
+Name,Zoe Brunn,Score,2
 Block 1,kayaking
 Block 2,riflery
-Block 3,low ropes
-Block 4,sports
+Block 3,obstacle course/sports
 
