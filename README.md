@@ -1,3 +1,21 @@
+# How to Install
+**Note: at any stage throughout the process, if you are prompted to install anything python related accept it.**
+1. Navigate to `https://code.visualstudio.com/download` on a browser.
+2. Download and install Visual Studio Code.
+3. Open Visual Studio Code
+4. Click open (to open a file).
+5. Choose a file to open that will be where the program is installed. For example documents.
+
+**Option A**
+6. In the Visual Studio Code window, in the top left, there are split screen options. Choose the middle one, with a line horizontally splitting the screen into two parts. It should open the a terminal window at the bottom.
+7. Paste `git clone https://github.com/mark-woods738/camper-sorting.git` into the terminal and press enter. This should download the files.
+
+**Option B**
+7. Navigate to `https://github.com/mark-woods738/camper-sorting`.
+8. Click on code.
+9. Click on `Download ZIP`.
+10. Unzip the file and place its contents inside the folder selected in Visual Studio Code.
+
 # How to Use 
 ## Getting the Data
 <!-- TODO get link to website -->
